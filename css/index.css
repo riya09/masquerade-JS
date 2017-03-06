@@ -1,0 +1,33 @@
+#photoHolder{
+    display: inline-block;
+    background: black;
+    margin-left: 25%;
+}
+#props img{
+    width: 50%;
+    float: left;
+}
+#props{
+  border-style : Solid;
+  border-color : #00569C;
+  border-color : rgba(0, 86, 156, 1);
+  border-width : 2px;
+  position : absolute ;
+  left : 11px;
+  top : 118px;
+  width : 168px;
+  height : 412px;
+}
+#fileinput{
+  position : absolute ;
+  left : 806px;
+  top : 499px;
+    
+}
+#inputs{
+  position : absolute ;
+  left : 80%;
+  top : 132px;
+  width : 142px;
+  height : 313px;
+}
